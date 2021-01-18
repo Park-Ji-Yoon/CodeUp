@@ -6,3 +6,4 @@ int main()
     printf("%d %d", a, b);
     return 0;
 }
+
