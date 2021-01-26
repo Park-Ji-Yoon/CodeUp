@@ -6,3 +6,4 @@ void main(void)
 	scanf("%2d%2d%2d - %2d%2d%3d", &year, &month, &day, &zen, &area, &ara);
 	printf("%02d%02d%02d%02d%02d%03d", year, month, day, zen, area, ara);
 }
+
