@@ -8,4 +8,3 @@ void main(void)
 		printf("\'%c\'\n",a[i]);
 	}
 }
-
