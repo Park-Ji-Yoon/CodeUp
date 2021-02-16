@@ -6,3 +6,5 @@ void main(void)
     scanf("%c",&a);
     printf("%d",a);
 }
+
+
